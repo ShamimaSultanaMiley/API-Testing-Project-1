@@ -3,25 +3,25 @@
 - [Summary](#summary) 
 - [Newman Report](#newmanreport) 
 # Discription 
-I have completed an API testing on a Book booking website. The following website is the website i have tested. https://restful-booker.herokuapp.com/
+I have completed API testing on a booking website. The following website is the website I have tested. https://restful-booker.herokuapp.com/
 
 Tasks Done
 
--CRUD Operations such as Create, Get, Put & Patch, and Delete.
+-CRUD operations such as Create, Get, Put & Patch, and Delete.
 
--Writing Pre-request Scripts using Dynamic Parameters.
+-Writing pre-request scripts using dynamic parameters
 
 -API Request & Response Chaining
 
--Writing Test Scripts For Data Validation.
+-Writing test scripts for data validation.
 
--Newman HTML & HTML Extra Report.
+-Newman HTML & HTML Extra Report
 
 # Summary 
-The Summary of all the tasks done for the restful-booker websites are given below with a table.
+The summary of all the tasks done for the restful-booker websites is given below with a table.
 ![Summary image](Image/report_table.png)
 
 # Newman Report
-The Report of all the tasks done for the restful-booker websites are given below with a table.
+The Report of all the tasks done for the restful-booker websites is given below with a table.
 
-![Newman Report](Image/newman_report.jpeg)
+![Newman Report](Image/newman_report.JPG)
