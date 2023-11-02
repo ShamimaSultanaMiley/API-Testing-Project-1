@@ -19,7 +19,7 @@ Tasks Done
 
 # Summary 
 The summary of all the tasks done for the restful-booker websites is given below with a table.
-![Summary image](Image/report_table.png)
+![Summary image](Image/report_table.JPG)
 
 # Newman Report
 The Report of all the tasks done for the restful-booker websites is given below with a table.
