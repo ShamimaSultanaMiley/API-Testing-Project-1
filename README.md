@@ -1,8 +1,8 @@
 # Content    
-- [ Discription](#discription )
+- [ Description](#discription )
 - [Summary](#summary) 
 - [Newman Report](#newmanreport) 
-# Discription 
+# Description 
 I have completed API testing on a booking website. The following website is the website I have tested. https://restful-booker.herokuapp.com/
 
 Tasks Done
